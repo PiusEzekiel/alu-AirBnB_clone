@@ -6,7 +6,7 @@ This is a command-line interface (CLI) for the AirBnB clone project. The command
 
 To start the command interpreter, follow these steps:
 
-1. Clone the repository [https://github.com/PiusEzekiel/alu-AirBnB_clone.git] to your local machine.
+1. Clone the repository > [https://github.com/PiusEzekiel/alu-AirBnB_clone.git] to your local machine.
 2. Ensure you have Python 3.x installed.
 3. Install the required dependencies by running the following command:
 pip install -r requirements.txt
